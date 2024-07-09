@@ -26,7 +26,7 @@ const config: HardhatUserConfig = {
   },
   networks:{
     mumbai: {
-      url: 'https://rpc.ankr.com/polygon_mumbai',
+      url: 'https://eth-sepolia.g.alchemy.com/v2/Z4lhJgtAqbTSLA3fVe6Anw8SZbX-gOF8',
       accounts: [process.env.privatekey]
     },
   },
