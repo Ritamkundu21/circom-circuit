@@ -1,7 +1,5 @@
 # circom-circuit
 
-# NFT Project README
-
 ## Overview
 This project involves creating and deploying a Zero-Knowledge Proof (ZKP) using Circom and SnarkJS. We will:
 1. Write a correct `circuit.circom` implementation.
